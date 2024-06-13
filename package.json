@@ -1,0 +1,21 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "description": "* Tokenomics\r * Finance\r * Modeling\r * Business Requirements\r * Formal Specification\r * Implementation [high level]\r * Optimization [low level]\r * Unit Test\r * Fuzz Test\r * Symbolic Test\r * Security Audit\r * Formal verification [economical vulnerabilities]",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "solc": "^0.8.26"
+  }
+}

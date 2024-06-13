@@ -3,7 +3,7 @@ pragma solidity 0.8.19;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
-contract english_auction {
+contract English_auction {
 
 address public owner; 
 address public auction_owner; 
